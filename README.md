@@ -4,6 +4,10 @@ Share screen with your teammates
 # About project:
 This program was created to improve cooperation within your teammates in Escape From Tarkov. It works like you and your colleagues sitting in the same room. You can see live what your teammates are doing with low latency.
 
+![My Image](screen.jpg)
+
+
+
 # How to run:
 
 1. Connect with your teammates via **Hamachi**:
