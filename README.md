@@ -29,6 +29,13 @@ This program was created to improve cooperation within your teammates in Escape 
 - change **Screen Mode** to **"borderless"**
 - **save** and **restart**
 
-6. Keybindings:
+6. Run **server.exe** and **client.exe**
+- afrer runing 2 icons should apear in tray:
+
+![My Image](tray.jpg)
+
+- you can **close** program by right clicking icon in tray and click **"Quit"**
+
+# Keybindings:
  - **F9 - F12** - show/hide window 1-4
  - **mouse wheel** - zoom to 100% - you can change it to another key, you can check aviable key codes in **key_codes.txt**
