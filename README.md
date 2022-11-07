@@ -7,17 +7,23 @@ This program was created to improve cooperation within your teammates in Escape 
 # How to run:
 
 1. Connect with your teammates via **Hamachi**:
-2. Copy **ip** of the colleagues you want to watch to config file:
+2. Copy **IPv4 address** from Hamachi of users you want to watch to **config** file:
 3. Set your **nickname** in **config.json**
 4. Set rest of settings in **config.json** or you can leave it default:
-<img src="(https://imageup.me/images/62bc8d44-ce08-4bb2-9aba-ae3a8da5ad42.jpeg" alt="Alt text" title="Optional title">
+
+![My Image](config_json.jpg)
 - **port**: connection port default is 5555
+- **videoQuality**: values from 0-100 - level of jpeg compression default 75 (recomended to not changing) You can lower it when you have network performance issues.
 - **windowName**: window which will be recorded. If you want to stream only specific window set it e.g "Escape From Tarkov". In this case your colleagues will see a black screen and your nickname turn yellow when you exit to the desktop or window will lose focus. You can stream any other window. To get specific window name use Windows Task Manager. If you want to record anyting just leave it "".
 - **windowsPositions**: saved position of windows.
 
 
 5. Change **video settings** in Tarkov:
-- 
+
+![My Image](window_setting.jpg)
+
+- change **Screen Mode** to **"borderless"**
+- **save** and **restart**
 
 6. Keybindings:
  - **F9 - F12** - show/hide window 1-4
