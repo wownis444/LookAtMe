@@ -10,7 +10,7 @@ This program was created to improve cooperation within your teammates in Escape 
 2. Copy **ip** of the colleagues you want to watch to config file:
 3. Set your **nickname** in **config.json**
 4. Set rest of settings in **config.json** or you can leave it default:
-![alt text](https://imageup.me/images/62bc8d44-ce08-4bb2-9aba-ae3a8da5ad42.jpeg)
+<img src="(https://imageup.me/images/62bc8d44-ce08-4bb2-9aba-ae3a8da5ad42.jpeg" alt="Alt text" title="Optional title">
 - **port**: connection port default is 5555
 - **windowName**: window which will be recorded. If you want to stream only specific window set it e.g "Escape From Tarkov". In this case your colleagues will see a black screen and your nickname turn yellow when you exit to the desktop or window will lose focus. You can stream any other window. To get specific window name use Windows Task Manager. If you want to record anyting just leave it "".
 - **windowsPositions**: saved position of windows.
