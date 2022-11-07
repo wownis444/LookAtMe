@@ -38,4 +38,9 @@ This program was created to improve cooperation within your teammates in Escape 
 
 # Keybindings:
  - **F9 - F12** - show/hide window 1-4
- - **mouse wheel** - zoom to 100% - you can change it to another key, you can check aviable key codes in **key_codes.txt**
+ - **`** - zoom to 100% - now is hardcoded but you can change it in future.
+ 
+# Donation
+If you like my project you can make a donation here:
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=DZZJ2SJ2RZ3UL)
